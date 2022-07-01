@@ -35,4 +35,3 @@ usuario1.addMascotas("Boris")
 usuario1.countMascotas()
 usuario1.addBooks({name:"Cuentos Completos",autor:"Lispector" }) 
 usuario1.getBooksName() 
-
